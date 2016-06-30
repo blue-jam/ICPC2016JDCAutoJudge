@@ -1,0 +1,9 @@
+# -*- coding: utf-8; mode: python -*-
+
+pid='B'
+
+problem(
+  time_limit=8.0,
+  id=pid,
+  title=pid + ": 当選者を探せ!",
+  )

@@ -1,0 +1,6 @@
+# -*- coding: utf-8; mode: python -*-
+
+## Output judges.
+cxx_judge(src='judge.cc', dependency=['testlib.h'], variant=testlib_judge_runner)
+
+id='G'

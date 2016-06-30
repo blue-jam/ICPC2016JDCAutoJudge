@@ -1,0 +1,9 @@
+# -*- coding: utf-8; mode: python -*-
+
+pid='A'
+
+problem(
+  time_limit=8.0,
+  id=pid,
+  title=pid + ": 被験者の選定",
+  )

@@ -1,0 +1,9 @@
+# -*- coding: utf-8; mode: python -*-
+
+pid='H'
+
+problem(
+  time_limit=8.0,
+  id=pid,
+  title=pid + ": プレゼント交換会",
+  )

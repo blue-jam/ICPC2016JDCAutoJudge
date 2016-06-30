@@ -1,0 +1,9 @@
+# -*- coding: utf-8; mode: python -*-
+
+pid='F'
+
+problem(
+  time_limit=8.0,
+  id=pid,
+  title=pid + ": 文字解読",
+  )
