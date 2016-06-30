@@ -1,6 +1,6 @@
-# ICPC2017 国内予選 自動ジャッジ
+# ICPC2016 国内予選 自動ジャッジ
 
-ICPC2017のジャッジをサボりたい人のためのプログラム
+ICPC2016のジャッジをサボりたい人のためのプログラム
 
 [rime-plus](https://github.com/icpc-jag/rime-plus)と
 [testlib](https://github.com/MikeMirzayanov/testlib)を使っています．
